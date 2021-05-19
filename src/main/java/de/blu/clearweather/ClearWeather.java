@@ -1,4 +1,4 @@
-package de.blu.alwaysday;
+package de.blu.clearweather;
 
 import org.bukkit.Bukkit;
 import org.bukkit.GameRule;
